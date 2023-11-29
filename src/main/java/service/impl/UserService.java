@@ -1,2 +1,17 @@
-package service.impl;public interface UserService {
+package service.impl;
+
+import entity.User;
+
+import java.util.List;
+
+public interface UserService {
+    User createUser(User user);
+
+    User getUserById(Long userId);
+
+    List<User> getAllUsers();
+
+    User updateUser(User user);
+
+    void deleteUser(Long userId);
 }
