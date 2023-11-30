@@ -2,16 +2,16 @@
 
 ## :memo: Descrição
 
-API para criar, recuperar, atualizar e excluir um usuário e, em seguida, testando usando o postman.
+API para criar, recuperar, atualizar e excluir um usuário e, em seguida, testando usando o Postman.
 
 ## :books: Funcionalidades
 
 ## - Criar entidade JPA - User.java
 
-id - chave primária
-firstName - nome do usuário
-lastName - sobrenome do usuário
-e-mail - ID de e-mail do usuário
+``id - chave primária``
+``firstName - nome do usuário``
+``lastName - sobrenome do usuário``
+``e-mail - ID de e-mail do usuário``
 
 ## - Criar repositório Spring Data JPA para entity JPA do User
 
