@@ -6,14 +6,14 @@ API para criar, recuperar, atualizar e excluir um usuário e, em seguida, testan
 
 ## :books: Funcionalidades
 
-## - Criar entidade JPA - User.java
+## - Entidade JPA - User.java
 
 - ``id - chave primária``
 - ``firstName - nome do usuário``
 - ``lastName - sobrenome do usuário``
 - ``e-mail - ID de e-mail do usuário``
 
-## - Criar repositório Spring Data JPA para entity JPA do User
+## - Repositório Spring Data JPA para entity JPA do User
 
 Criado um  UserRepository  para acessar os dados do usuário no banco de dados.
 Bem, Spring Data JPA vem com uma  interface JpaRepository  que define métodos para todas as operações CRUD
