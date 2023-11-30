@@ -36,7 +36,7 @@ Você precisará definir os endpoints da API e mapeá-los para os métodos aprop
 
 ## :rocket: Rodando o projeto
 
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+Para rodar o projeto é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto, no seu terminal ou git:
 ```
-Abra seu terminal ou Git <git clone "A url do projeto"> 
+ git clone "A url do projeto"> 
 ```
