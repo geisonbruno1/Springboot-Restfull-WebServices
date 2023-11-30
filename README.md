@@ -15,7 +15,7 @@ API para criar, recuperar, atualizar e excluir um usuário e, em seguida, testan
 
 ## - Criar repositório Spring Data JPA para entity JPA do User
 
-Vamos criar um  UserRepository  para acessar os dados do usuário no banco de dados.
+Criado um  UserRepository  para acessar os dados do usuário no banco de dados.
 Bem, Spring Data JPA vem com uma  interface JpaRepository  que define métodos para todas as operações CRUD
 na entidade e uma implementação padrão de  JpaRepository  chamada  SimpleJpaRepository.
 
