@@ -1,10 +1,10 @@
-package com.java.SpringbootRestfullWebServices;
+package com.projeto.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootRestfullWebServicesApplicationTests {
+class ApiApplicationTests {
 
 	@Test
 	void contextLoads() {

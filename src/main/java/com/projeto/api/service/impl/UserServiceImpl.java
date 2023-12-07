@@ -1,12 +1,13 @@
-package service.impl;
+package com.projeto.api.service.impl;
 
-import entity.User;
-import repository.UserRepository;
+import com.projeto.api.entity.User;
+import com.projeto.api.repository.UserRepository;
+import com.projeto.api.service.impl.UserService;
 
 import java.util.List;
 import java.util.Optional;
 
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
     private UserRepository userRepository;
 

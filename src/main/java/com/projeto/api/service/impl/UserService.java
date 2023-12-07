@@ -1,6 +1,7 @@
-package service.impl;
+package com.projeto.api.service.impl;
 
-import entity.User;
+
+import com.projeto.api.entity.User;
 
 import java.util.List;
 
